@@ -1,5 +1,3 @@
-# manifest.json – Definuje metadata pro Home Assistant a HACS
-json
 {
   "domain": "mapycz_rest",
   "name": "Mapy.cz REST API",
