@@ -1,5 +1,9 @@
 #const.py – Konstanty a API endpointy:
 python
-DOMAIN = "mapy_cz"
+DOMAIN = "mapycz_rest"
+
 CONF_API_KEY = "api_key"
-BASE_URL = "https://mapy.com"
+CONF_GEO_QUERY = "geo_query"
+CONF_ROUTE_START = "route_start"
+CONF_ROUTE_END = "route_end"
+CONF_ROUTE_MODE = "route_mode"
