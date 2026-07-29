@@ -1,5 +1,5 @@
 #const.py – Konstanty a API endpointy:
-python
+#python
 DOMAIN = "mapycz_rest"
 
 CONF_API_KEY = "api_key"
