@@ -1,5 +1,5 @@
 #config_flow.py – Uživatelské rozhraní pro zadání API klíče v nastavení Home Assistanta:
-python
+#python
 pythonimport voluptuous as vol
 from homeassistant import config_entries
 from .const import DOMAIN, CONF_API_KEY, CONF_GEO_QUERY, CONF_ROUTE_START, CONF_ROUTE_END, CONF_ROUTE_MODE
