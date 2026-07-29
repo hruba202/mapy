@@ -1,5 +1,5 @@
 #api.py – Asynchronní klient pro komunikaci s Mapy.cz REST API přes aiohttp:
-python
+#python
 import aiohttp
 
 class MapyCzApiClient:
