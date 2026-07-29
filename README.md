@@ -1,0 +1,2 @@
+# mapy.cz
+czech maps
