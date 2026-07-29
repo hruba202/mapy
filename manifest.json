@@ -1,0 +1,11 @@
+# manifest.json – Definuje metadata pro Home Assistant a HACS
+json{
+  "domain": "mapy_cz",
+  "name": "Mapy.cz",
+  "documentation": "https://github.com",
+  "codeowners": ["@vasedum"],
+  "config_flow": true,
+  "dependencies": [],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
